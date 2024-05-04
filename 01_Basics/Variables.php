@@ -9,7 +9,9 @@
     <h1> Hello World</h1>
     <?php
     $a=5 ; $b=9 ;
-    echo $a + $b;
+    echo $a + $b ;
+    echo "<br>" ;
+    echo $b - $a;
     // echo "I am Soumyadip";
     ?>
 </body>
