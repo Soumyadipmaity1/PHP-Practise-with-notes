@@ -10,7 +10,7 @@
     <?php
     $a=5 ; $b=9 ;
     echo $a + $b ;
-    echo "<br>" ; 
+    echo "<br>" ;   
     echo $b - $a;
     // echo "I am Soumyadip";
     ?>
