@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Get Method</title>
+    <title>Post Method</title>
 </head>
 <body>
    <form action="get_method.php" method="post">
