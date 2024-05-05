@@ -14,7 +14,6 @@
 <input type="submit" value="Log in ">
    </form> 
    
-   
    <h1 >
     <h2>Display</h2>
     <?php 
